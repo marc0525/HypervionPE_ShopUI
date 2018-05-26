@@ -3,7 +3,8 @@ main: GuiShop\Main
 version: 1.0.0-BETA2
 api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
 author: VMPE Developement Team
+authors: stcraftpev3,IZeaoGamer
 description: ShopUI for servers!
 commands:
  shop:
-  description: Opens a shop UI
+  description: Opens The ExclusivePvP Shop UI
